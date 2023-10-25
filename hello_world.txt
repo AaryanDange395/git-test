@@ -1,0 +1,6 @@
+THe first file with the first text in my programming journey
+with TheOdinProject and with Git & GitHub!
+
+Some random text to save
+to the text file to test git add
+& git status and commiting.
